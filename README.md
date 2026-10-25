@@ -8,7 +8,7 @@ A (tiny) 2D EndlessRunner :^
 
 ## Try it out
 
-[**Play Mauser**](https://dahmaus.github.io/Molf/)
+[**Play Mauser**](https://dahmaus.github.io/Mauser)
 
 ## Run locally
 
