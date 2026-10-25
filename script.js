@@ -103,7 +103,7 @@ function drawGameOver(){
     ctx.font = "50px Arial";
     ctx.fillText("GAME OVER D:",200,200);
     ctx.font = "30px Arial";
-    ctx.fillText("Highscore: " + showscore,200,250);
+    ctx.fillText("Score: " + showscore,200,250);
 }
 
 function gameLoop() {
