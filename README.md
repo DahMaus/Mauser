@@ -2,7 +2,6 @@
 
 A (tiny) 2D EndlessRunner :^
 
-Drag and let go to fling the Ball!
 ## Showcase
 
 ![Mauser gameplay](./ShowCase.png)
